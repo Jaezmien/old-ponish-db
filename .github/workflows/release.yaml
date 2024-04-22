@@ -1,0 +1,39 @@
+name: Create Release
+
+on:
+  push:
+    tags:
+      - 'v*' # Push events to matching v*, i.e. v1.0, v20.15.10
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@master
+
+      - name: Setup NodeJS and Modules
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Setup Yarn
+        run: npm i -g yarn
+
+      - name: Install dependencies 
+        run: yarn --frozen-lockfile
+
+      - name: Generate files 
+        run: yarn start
+
+      - name: Create Release
+        uses: ncipollo/release-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          name: Release ${{ github.ref_name }}
+          artifacts: "dist/*.json"
+          draft: false
+          prerelease: false
