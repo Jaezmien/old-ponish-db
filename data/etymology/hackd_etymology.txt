@@ -1,0 +1,342 @@
+A:
+agaes (prep.) | against
+etymology: agenes (OE), igen (Danish), gegin (OHG), gegen (German)
+
+agswaer (v.) | to answer, reply
+etymology: andswaru (OE), 
+note: derived from against + swear (agaes + swaeren)
+
+alnon (adj., adv.) | alone
+note: contraction of all-one (alna + on), as it was in OE
+
+alsoa (adv., conj.) | also, likewise
+etymology: swa, sw� (OE), swa (PG), so (OS, OHG), sva (ON), sa (OF), swo- (PIE); eallswa (OE)
+note: alsoa is the contraction of alna + soa, as it was in OE
+
+am (prep.) | on
+etymology: an (OE)
+
+B:
+bigh (prep.) | by, near
+etymology: bi (OE, Os, OF - near, in, by, during, about), bhi (PIE)'
+
+blou (adj.) | blue
+etymology: blaw (OE), blao (OS, OHG), blau (OF)
+
+brun (adj.) | brown
+etymology: br�n (OE)
+
+D:
+daene (adv.) | then, therefore
+etymology: �anne, ��nne, �onne (OE), thanna (OS), thenne (OF), danne (OHG)
+
+daer (adv.) | there
+etymology: ��r (OE), th�r (PG), thar (OS), ther (OF), �ar (ON)
+
+don (adj.) | dun, dingy brown, dark-colored
+etymology: dunn (OE), donnos (PIE - dark)
+
+dragem (v.) | to draw, drag; to wear
+dragan (OE - to drag, draw, protract), dragan (PG, OS - to draw, pull), draga (ON - to draw), draga (OF), tragen (OHG), dhragh- (PIE - drag)
+
+dramen (v.) | to play music, celebrate
+etymology: swefnian (OE - to appear in a dream), swefn (OE - sleep), dram (OF - dream), troum (OHG - dream), draumr (ON), dream (OE - joy, mirth, music), dremen (OE - to rejoice, play music). note: �dream� (OE) only has recorded context in reference to music, not dreaming (despite being spelled the same)
+
+droama (v.) | to swallow up, engulf
+etymology: drincan (OE - to drink, swallow up, engulf), drenkan (PG), drinkan (OS), drinka (OF), trinkan (OHG), drekka (ON)
+ 
+dundra (v., n.) | (to) thunder, explode, yell, roar
+dundrastoarm (n.) | thunderstorm
+dundravaht (n.) | argument
+etymology: �unor (OE - thunder, Thor); most all the etymology stems from Thor on this one. I also tried referencing boom, bomb, explode, and rumble but they don�t have roots in OE. I�d rather avoid references to external mythology and focus on onomatopoeia. rommelen (Middle Dutch - rumble), rymja (Old Norse, roar).
+
+E:
+ertha (n.) | earth, land
+etymology: eor�e (OE - ground, soil, land, country), ertho (PG), er- (PIE - earth, ground), erda (OHG), Erde (German)
+
+F:
+faloa (adj.) | fallow, pale or brownish yellow, color of fire or birds� feet
+etymology: fealu (OE), falwa- (PG), falu (OS), falo (OHG)
+
+faelen (v.) | to feel, touch, sense, perceive
+etymology: felan (OE - to touch or have a sensory experience; perceive, sense), foljan (PG), gifolian (OS), fela (OF), vuolen (OHG)
+
+findar (v.) | to find, discover(edited)
+etymology: findan (OE, OS, OHG - to come upon, meet with; discover; obtain by search or study), finthan (PG), finda (OF), finna (ON)
+
+flija (v.) | to fly
+etymology: fleogan (OE), fleugan (PG), fliogan (OS), fliaga (OF), fl�gja (ON)
+
+frehg (or frehgim or fregenim) (n.) | question
+etymology: fregen, fregn (OE), Frage (German)
+
+frieken (v.) |to dance wildly, stomp, thrash,   (jump), frician (OE - to dance), threskan (PG - to tread, to stamp noisily), tere- (PIE - to rub, turn), dreskan (OHG)
+
+frightig (v.) | to frighten, terrify
+f�r (OE - calamity, peril), f�ran (OE - terrify, frighten), af�ran, (OE - on fear)
+
+G:
+gaelen (v.) | to sing, storytell, enchant
+etymology: singan (OE - to sing, celebrate, tell in song, birdsong), sengwh- (PIE - to sing, make an incantation), sengwan (PG), singan (OS). galan (OE - to sing), ghel- (PIE - to call)
+
+gibten (v.) | to give, provide
+etymology: giefan (OE - to give, commit, devote, entrust). ghabh- (PIE - to give or receive) root of geban (Proto-Germanic) source of jeva (Old Frisian), gheven (Middle Dutch), geban (OHG), geben (German), giban (Gothic)
+
+gilek (adj.) | similar, like
+etymology: gelic (OE), galika- (PG), gilik (OS)
+
+grae (adj.) | grey
+etymology: gr�g (OE), grewa- (PG), gre (OF), grao (OHG)
+
+graefen (v.) | to weep, shed tears, mourn
+etymology: gr�tan (OE - weep, bewail), gher- (PIE - to call out). wepan (OE - shed tears, cry, mourn), wopjan (PG), op (ON), wuof (OHG - shout, crying), wopian (OS), wab- (PIE, to cry, scream)
+
+gretic (v.) | to greet, approach, seek out
+etymology: gretan (OE - to come in contact with both to welcome and to attack), grotjan (West Germanic - seek out, approach), grotian (OS), greta (OF), gruozen (OHG)
+
+grima (adj.) | green
+etymology: grene (OE, OF), grani, (OS), gronja (PG),
+
+groma (v.) | to grow plants, farm
+etymology: growan (OE - (of plants) to flourish, develop), gro- (PG), groa (ON - (of plants) to grow), groia (OF), gruoen (OHG), ghre- (PIE - to grow, become green)
+
+gweft (v.) | to breathe
+gweftim (n.) | air, breath
+gwend (v., n.) | (to) gust, blow
+gwethar (n.) | weather
+etymology: ��m (OE - air exhaled from lungs), gwhre- (PIE - to breathe), loft (OE - sky, sphere of air), lopt (Old Norse). wind (OE - air in motion), windaz (Proto-Germanic), vindr (Old Norse), we- (PIE - to blow), vejas (Lithuanian). weder (OE - air, breeze, storm, tempest), we-dhro- (PIE - weather), wedram (Proto-Germanic - wind, weather), wedar (Old Saxon), ve�r (Old Norse), wetar (OHG)
+
+H:
+haeg (n.) | hay
+etymology: heg (OE - grass mown), hieg (West Saxon - grass cut for fodder). kau- (PIE - to hew, strike); source of haujam (Proto-Germanic - that which can be mowed), hey (Old Norse)
+
+haerd (n.) | herd, group, family
+etymology: heord (OE), herdo (Proto-Germanic).
+
+hiar (adj.) | hoar, color of frost, grey, venerable
+etymology: har (OE - hoary, grey, old), haira (PG), her (OS, OHG)
+
+highken (v.) | think, imagine, wish
+etymology: pencan (OE - imagine, consider, intend, wish) from pyncan (OE - to seem, to appear) ~ to think is for ideas to appear to the self. thankjan (Proto-Germanic) from tong- (PIE - to think, feel). Source of thinka (Old Frisian), thenkian (Old Saxon), denchen (OHG), denken (German), pekkja (Old Norse), pagkjan (Gothic) as well as the root of thought and thank.
+
+hlihahen (v.) | to laugh
+etymology: hl�hhan, hliehhan, hlihhan (OE - to laugh, rejoice), klakhjan (PG), hl�ja (ON), klakkia (OF), hlahhian (OS), kleg- (PIE)
+
+hwiet (adj.) | white, bright, radiant
+etymology: hwit (OE, OS, OF), hwitaz (PG)
+
+I:
+i'�suthe (adv.) | indeed, �in truth�, certainly
+etymology: so� (OE - truth; reality, certainty), santhaz (PG), soth (OS), sannr (ON), sand (OHG)
+
+K:
+kogaerdin (adv.) | together, whole
+etymology: tog�dere, geador (OE - together). ghedh- (PIE - to unite) source of gaduri- (Proto-Germanic - in a body).
+
+kogibten (v.) | to share, make even
+
+komaenum (n.) | community, public interest, common ownership
+etymology: gem�nscipe (OE - community, union, common ownership), m�ne (OE - common, public).  
+
+komajen (v.) | to collaborate, make together
+
+kowegnen (v.) | to cooperate, participate
+
+kumo () | to arrive, come, land
+etymology: cuman (OE, OS - come, approach, land; arrive), kwem - (PG), kuma (OF), koma (ON), queman (OHG), kommen (German), gwa- (PIE - to go, come)
+
+kunen (v.) | can, to be able
+etymology: cunnan (OE - to know, to have power to, to be able), kunnan (PG - to be mentally able, to have learned), kanna (OF - to recognize, admit), gno- (PIE - to know)
+
+kwek (pron.) | which
+etymology: hwilc, hw�lc (OE)
+note: contraction of what-form (kwa + lek), as it was in OE
+
+L:
+libven (v.) | to live, to procure subsistence, (of fire) to burn
+etymology: lifian, libban (OE - to be, be alive, have life; continue in life; to experience; to supply oneself with food), liben (PG), libba (OF), lifa (ON - to live, (of fire) to burn)
+
+lieten (v.) | to illuminate, ignite (physically/spiritually)
+lietenim (n.) | lightning, literally that which illuminates or ignites
+etymology: lihtan/liehtan (OE), liohtian (Old Saxon), liuhtan (OHG); lightnen (OE - verbal noun derived from �to make bright�)
+
+likhen (v.) | to like, favor
+etymology: lician (OE - to please, be pleasing, be sufficient), likjan (PG), likon (OS), likia (OF), lika (ON), lihhen (OHG)
+
+lipken (v.) | to drink, lick, lap up
+etymology: liccian (OE - to lap, lick up), likkon (PG, OS), lecchon (OHG), leigh- (PIE - to lick)
+
+lek (N) | form, shape, body
+etymology: lic (OE - body, corpse), likow (PG), lik (OF, ON), lih (OHG)
+
+M:
+majen (v.) | to make
+macian (OE - to make, do, cause, prepare, construct, transform). mag- (PIE - to fashion) source of makon (West Germanic - to fashion), makon (Old Saxon), makia (Old Frisian - to build, make), maken (Dutch), mahhon (OHG - to construct, make), machen (German).
+
+maror (adj.) | more, greater, stronger
+etymology: mara (OE, OF - greater, more, stronger, mightier), maizon- (PG), mera (OS), meiri (ON), mero (OHG)
+
+N:
+nawi (adj.) | new, recent, different, inexperienced
+etymology: neowe, niowe (OE - new fresh, recent, novel, unheard-of; different from the old; untried, inexperienced), newjaz (PG), niuwi (OS), nie (OF), niuwl (OHG)
+
+nuha (adv.) | now, at present
+etymology: nu (OE, OF, ON - now, at present; now that)
+
+O:
+ofar (prep.) | over
+etymology: ofer (OE - beyond, above, upon, in, across, past; on high), uberi (PG), obar (OS), over (OF), yfir (ON), ubar (OHG)
+
+onlek (adj.) | only
+etymology: �nlic, anlic (OE)
+note: contraction of one-form (on + lek), as it was in OE
+
+othe (conj.) | or
+etymology: o��e (OE), ieftha (OF), e�a (ON), odar (OHG)
+
+P:
+pasu (adj.) | purple
+etymology: basu (OE)
+
+pranden (v.) | to prance, strut, show off
+etymology: pranken (Middle English - to show off), pronken (Middle Dutch - to strut, parade), prandse (Danish - to go in a stately manner)
+
+prijen (v.) | to free, liberate; to love (I really like the poetic duality sourced from the etymology, but I've done love as an isolated verb as well)
+etymology: freogan (OE - liberate, love), fria (Old Frisian - make free), friohan (Old Saxon - woo), befreien (German - to free), freien (German - woo), frija (Proto-Germanic adj. - liberated, beloved), vri (OHG), frei (German), vrij (Dutch)
+
+R:
+rath (adj.) | red
+etymology: read (OE), rod (OS), rad (OF), raudaz (PG), reudh- (PIE)
+
+raeg (v., n.) | (to) rain, shower
+raegvall (n.) | rainfall
+etymology: regn (OE), reg- (PIE - moist, wet), regna- (Proto-Germanic), regan (Old Saxon), regn (Old Norse)
+
+rienen (v.) | to run
+etymology: rinnan (OE, OS, OHG - to run, flow)
+
+rijanmaj (v.) | to befriend
+literally �friend-make� from rijan + majen
+
+S:
+sae (n.) | sea, ocean
+etymology: s� (OE - sheet of water, sea, lake, pool), s�r (Old Norse).
+
+seltien (v.) | to dance, skip, swing
+frieken (v.) |to dance wildly, stomp, thrash
+etymology: saltian, sealtian (OE - to dance), sel- (PIE - to jump), frician (OE - to dance), threskan (PG - to tread, to stamp noisily), tere- (PIE - to rub, turn), dreskan (OHG)
+
+shakka (v.) | to shake
+etymology: sceacan (OE - move something quickly to and fro; move the body rapidly back and forth), skakanan (PG), shaka (ON)
+
+skawen (v.) | to show, display, exhibit
+etymology: sceawian (OE - to see, behold, observe; inspect; look for), skauwojan (PG), skauwon (OS), skawia (OF), scouwon (OHG - to look at), skau- (PG - behold, look at), skou- (PIE)
+
+skie (n.) | snow
+skievall (n.) | snowfall
+skiestoarm (n.) | snowstorm, blizzard
+etymology: snaw (OE), sniegwh- (PIE), snaiwaz (Proto-Germanic), sneo (OHG), snjor (Old Norse), Schnee (German)
+
+soa (adv., conj.) | so, in this way, consequently
+etymology: swa, sw� (OE), swa (PG), so (OS, OHG), sva (ON), sa (OF), swo- (PIE)
+
+stampen (v.) | to stomp, pound, stamp with the hoof)
+etymology: stempan (OE - to pound), stamp- (PG), stampfon (OHG), stappa (ON)
+
+stoarm (v., n.) | (to) storm, rush, rage
+etymology: storm (EO - tempest, onrush, attack, disturbance), twer- (PIE - to turn, whirl), sturmaz (Proto-Germanic), stormr (Old Norse), storm (Dutch), sturm (OHG, German).
+
+strighten (v.) | to strive, struggle, strike
+Old Frisian), strugr (Old Norse - ill will)
+
+suthe (n.) | truth
+etymology: so� (OE - truth; reality, certainty), santhaz (PG), soth (OS), sannr (ON), sand (OH)
+
+suma (adj.) | some
+etymology: sum (OE, OS, OF, OHG), sumaz (PG), sumr (ON)
+
+swaem (v.) | to dream
+etymology: swefnian (OE - to appear in a dream), swefn (OE - sleep
+
+swaeren (v.) | to swear, take an oath
+etymology: swerian (OE, OS), swarjan (PG), swera (OF), sverja (ON), swerien (OHG), swer- (PIE - to speak, talk, say)
+swerth (adj.) | black, dark
+etymology: sweart (OE), swordos (PIE)
+
+swafen (v.) | to brush, sweep
+etymology: sw�pan (OE - to sweep with a brush). bruskaz (PG - underbrush)
+
+swimil (v.) | to swim
+etymology: swimman (OE - to move through water), swimjan (PG), swimman (OHG, OS), svimma (ON), swem- (PIE - to be in motion)
+
+swisti (v.) | to whirl, spin
+swistigwend (n.) | whirlwind
+swististoarm (n.) | tornado
+saeswististoarm (n.) | hurricane
+etymology: windan (OE - to turn, twist, whirl, swing), spinnan (OE - twist fibers into thread), hweorfan (OE - to turn), hvirfla (Old Norse - to go round, spin), kwerp- (PIE - to turn round), wendh- (PIE - to turn, wind, weave)
+
+T:
+taefen (v.) | to teach, train, instruct, demonstrate
+l�ran (OE - to teach, instruct, guide). t�can (OE - to show, explain, teach), taikijan (PG - to show), , deik- (PIE - to show).
+
+tael () | number
+etymology: t�l (OE), Zahl (German)
+
+talla (n.) | story, narrative, message
+talu (OE - series, calculation, story, narrative), talo (PG), del- (PIE - to recount, count)
+treo (n.) | tree
+treo (OE - tree)
+
+trendij (v.) | to roll
+etymology: trendan (OE - turn round, revolve, roll), trandijan (PG)
+
+treosten (v.) | to trust
+etymology: treowian (OE - to believe, trust), treysta (ON - to trust, rely on, make strong and safe). treowe (OE - faithful, trusty), deru- (PIE - be firm, solid, steadfast), traust (ON - help confidence, protection, support), traustam (PG), trast (OF), trost (OHG - trust, fidelity)
+
+V:
+vall (v.) | to fall, drop, collapse
+etymology: feallan (OE - drop, fail, die), pol- (PIE - to fall), fallan (Proto-Germanic), falla (Old Norse)
+
+vaelk (adj., pron.) | each, every, any, all
+etymology: �lc (OE - (n., pron., adj.) any, all, every, each (one)), ellik (OF)
+note: contraction of ever-like (vaere + gilek), as it was in OE
+
+vaere (adv.) | always, ever
+etymology: a (OE - always, ever), aiwi- (PG), aiw- (PIE); �fre (always, ever, at any time)
+note: can compound with kwa, kwane, kwar... (whatever, whoever, wherever�)
+
+vram (prep.) | from
+etymology: fram (OE, OS, OHG), fra (PG, ON)
+
+vuhkt (v.) | to buck, kick, knock, strike by thrusting
+butan (Proto-Germanic), bhau- (PIE - to strike), bauta (Old Norse), boten (Low German). cnocian (OE - to pound, beat, knock (on a door))
+
+W:
+wasta (v.) | to wash, bathe
+wastafum (n.) | bathhouse, spa
+etymology: ba�ian (OE - to wash, take a bath), badon (OHG - bathing), baden (German). wascan (OE - to wash, cleanse, bathe), watskan (PG), vaska (ON), wed- (PIE - water, wet)
+
+waxen (v.) | to grow big or greater, to wax
+etymology: weaxan (OE - to increase, grow), wahsan (PG, OS, OHG), vaxa (ON), waxa (OF), weg- (PIE)
+
+wegnen (v.) | to carry, support
+etymology: �wegan (OE - to lift up), �fnan (OE - to carry out, labor), wegan (OE - to carry, support, sustain, bear, weigh, measure)
+
+woaja (n.) | water
+etymology: w�ter (OE), wod-or (PIE - water, wet), watar (Proto-Germanic), wazzar (OHG), vatn (Old Norse)
+
+wult (n.) | forest, woodland
+etymology: holt (OE - woods, forest, grove), wudu (OE - wood), widu (OE - tree, forest), treo (OE - tree), hultam (PG - forest), trewam (PG - tree), kldo- (PIE)
+
+Y:
+yev (conj.) | if
+etymology: gif (OE), ef (OS, ON), gef (OF), ibu (OHG)
+note: the g�s cited in the etymology were pronounced more like �y�
+
+yieta (adv.) | yet, till now, thus far
+etymology: get, gieta (OE), ieta (OF)
+
+Z:
+zunthe (adj.) | other, second, alternative
+-the (suffix) | turns number into adjective (onthe, zunthe, drithe, karthe�)
+etymology: o�er (OE - (adj.) the second; (pron.) one of the two, other), antharaz (PG), athar (OS), other (OF), andar (OHG)
