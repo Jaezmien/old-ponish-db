@@ -74,10 +74,12 @@ async function create_etymology_json(changelog_path, etymology_data_path, dictio
 	apply_changelog_113_speech(PONISH_ETYMOLOGY, path.join(etymology_data_path, '1_13_changelog.xlsx'))
 	apply_changelog_114_speech(PONISH_ETYMOLOGY, path.join(etymology_data_path, '1_14_changelog.xlsx'))
 
-	for(const word of Object.keys(PONISH_ETYMOLOGY)) {
+	apply_additional_patch(PONISH_ETYMOLOGY, path.join(etymology_data_path, 'patches.json'))
+
+	for (const word of Object.keys(PONISH_ETYMOLOGY)) {
 		const info = PONISH_ETYMOLOGY[word]
 
-		if( info.speech ) {
+		if (info.speech) {
 			PONISH_ETYMOLOGY[word].speech = info.speech.map(cleanup_part_of_speech)
 		}
 	}
@@ -145,6 +147,24 @@ function apply_changelog_114_speech(etymology, changelog_path) {
 		if (etymology[entry['Old Ponish']]) {
 			etymology[entry['Old Ponish']].speech = pos
 		}
+	}
+}
+
+/**
+ * @typedef { object } PatchEntry
+ * @property { string } etymology
+ * @property { string } credit
+*/
+
+/**
+ * @param { string } patch_path 
+*/
+function apply_additional_patch(etymology, patch_path) {
+	/** @type { Object.<string, PatchEntry> } */
+	const data = JSON.parse(fs.readFileSync(patch_path, "utf-8"))
+
+	for (const entry of Object.keys(data)) {
+		etymology[entry] = data[entry]
 	}
 }
 
