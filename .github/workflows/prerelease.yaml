@@ -1,0 +1,40 @@
+name: Create Pre-Release
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@master
+
+      - name: Setup NodeJS and Modules
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Setup Yarn
+        run: npm i -g yarn
+
+      - name: Install dependencies 
+        run: yarn --frozen-lockfile
+
+      - name: Generate files 
+        run: yarn start
+
+      - name: Update Pre-Release
+        uses: IsaacShelton/update-existing-release@v1.3.4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          release: Nightly
+          replace: true
+          prerelease: true
+          files: >
+            dist/dictionary.json
+            dist/etymology.json
