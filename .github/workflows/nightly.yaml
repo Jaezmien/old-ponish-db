@@ -1,4 +1,4 @@
-name: Create Pre-Release
+name: Update Nightly 
 
 on:
   push:
@@ -28,13 +28,15 @@ jobs:
       - name: Generate files 
         run: yarn start
 
-      - name: Update Pre-Release
-        uses: IsaacShelton/update-existing-release@v1.3.4
+      - name: Update Nightly
+        uses: ncipollo/release-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          release: Nightly
-          replace: true
+          name: Nightly Release 
+          tag: Nightly
+          commit: main
+          artifacts: "dist/*.json"
+          draft: false
           prerelease: true
-          files: >
-            dist/dictionary.json
-            dist/etymology.json
+          replacesArtifacts: true
