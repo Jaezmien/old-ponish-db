@@ -5,7 +5,7 @@ const xlsx = require('xlsx')
  */
 function cleanup_part_of_speech(word) {
 	let w = word.trim()
-	if ( w.endsWith('.') ) w = w.substring(0, w.length - 1)
+	if (w.endsWith('.')) w = w.substring(0, w.length - 1)
 
 	switch (w) {
 		case 'adv':
@@ -24,8 +24,7 @@ function cleanup_part_of_speech(word) {
 			return 'verb'
 	}
 
-
-	return w 
+	return w
 }
 
 /**

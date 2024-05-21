@@ -154,14 +154,14 @@ function apply_changelog_114_speech(etymology, changelog_path) {
  * @typedef { object } PatchEntry
  * @property { string } etymology
  * @property { string } credit
-*/
+ */
 
 /**
- * @param { string } patch_path 
-*/
+ * @param { string } patch_path
+ */
 function apply_additional_patch(etymology, patch_path) {
 	/** @type { Object.<string, PatchEntry> } */
-	const data = JSON.parse(fs.readFileSync(patch_path, "utf-8"))
+	const data = JSON.parse(fs.readFileSync(patch_path, 'utf-8'))
 
 	for (const entry of Object.keys(data)) {
 		etymology[entry] = data[entry]
