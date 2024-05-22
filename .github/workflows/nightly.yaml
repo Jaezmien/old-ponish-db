@@ -41,3 +41,4 @@ jobs:
           prerelease: true
           replacesArtifacts: true
           allowUpdates: true
+          generateReleaseNotes: true
