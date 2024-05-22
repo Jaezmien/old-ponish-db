@@ -40,3 +40,4 @@ jobs:
           draft: false
           prerelease: true
           replacesArtifacts: true
+          allowUpdates: true
