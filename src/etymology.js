@@ -76,6 +76,9 @@ async function create_etymology_json(changelog_path, etymology_data_path, dictio
 
 	apply_additional_patch(PONISH_ETYMOLOGY, path.join(etymology_data_path, 'patches.json'))
 
+	apply_maple_patch(PONISH_ETYMOLOGY, path.join(etymology_data_path, 'maple.ety1.txt'))
+	apply_maple_patch(PONISH_ETYMOLOGY, path.join(etymology_data_path, 'maple.ety2.txt'))
+
 	for (const word of Object.keys(PONISH_ETYMOLOGY)) {
 		const info = PONISH_ETYMOLOGY[word]
 
@@ -165,6 +168,28 @@ function apply_additional_patch(etymology, patch_path) {
 
 	for (const entry of Object.keys(data)) {
 		etymology[entry] = data[entry]
+	}
+}
+
+/**
+ * @param { string } patch_path
+ */
+function apply_maple_patch(etymology, patch_path) {
+	/** @type { Array<string> } */
+	const data = fs.readFileSync(patch_path, 'utf-8').split('\n').filter(x => !!x.trim())
+
+	for (const entry of data) {
+		const [words, ...info_array] = entry.split(';')
+		const info = info_array.join(';').trim()
+
+		for(const word of words.split('/')) {
+			if( !!etymology[word] ) continue;
+
+			etymology[word] = {
+				etymology: info,
+				credit: 'maple'
+			}
+		}
 	}
 }
 

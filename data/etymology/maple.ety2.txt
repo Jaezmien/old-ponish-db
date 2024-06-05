@@ -1,0 +1,85 @@
+pot; English pot, OE pott, ON pottr
+
+bol; OE bolle, Dutch bol, OF bolla
+
+nasse; OP nassen
+
+scire; English shire, OE sċīr
+
+vajnkkwscen; ME vaynquisshen
+
+vulen; English full, ME & Dutch vullen
+
+erthbaeri; cmb "ertha" + "baeri"
+
+bloubaeri; cmb "blou" + "baeri"
+
+swerthaeri; cmb "swerth" + "baeri"
+
+hartbaeri; cmb "hart" + "baeri"
+
+poskbaeri; cmb "posk" + "baeri"
+
+uth-; OP unthethe
+
+inbar-; OP contracted of "inne barl a"
+
+-skre; faux-Proto-Germanic "scribaną" + OP -the
+
+luvfro; OP luvji + fro
+
+hefenan; OP hefenan + -an
+
+selestan; OP Selestia + -an
+
+froemarung; OP froe- + marung
+
+dohd; Norwegian Nynorsk "daud", Dutch "dood", Norwegian død
+
+swafener; OP swafen + -er
+
+foregestrindag; OP fore- + gestrindag
+
+naonr; OP na- + onr
+
+lepud; English leopard; Spanish pardo
+
+grettsae; OP grett + sae
+
+toumen; OP toume + -n
+
+blothen; OP bloth + -en
+
+genusom; OP genus + -om
+
+nadout; OP na- + dout
+
+frighthe; OP frighta + -the
+
+frightvul; OP frighta + -vul
+
+navaere; OP na- + vaere
+
+swerthiel; OP swerth + hiel
+
+daglaet; OP dag + laet
+
+mondalaet; OP monda + laet
+
+sollasthe; OP sollast + -the
+
+laethe; OP laet + -the
+
+sollastlig; OP sollast + -lig
+
+monda + lig; OP monda + -lig
+
+sefar-; OP ser + ofar
+
+raeghud; OP raeg + hud
+
+stolhud; OP sollast (shortened) + hud
+
+endethe; OP ende + -the
+
+lagbonten; OP lag + bonten
