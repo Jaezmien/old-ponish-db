@@ -78,6 +78,7 @@ async function create_etymology_json(changelog_path, etymology_data_path, dictio
 
 	apply_maple_patch(PONISH_ETYMOLOGY, path.join(etymology_data_path, 'maple.ety1.txt'))
 	apply_maple_patch(PONISH_ETYMOLOGY, path.join(etymology_data_path, 'maple.ety2.txt'))
+	apply_maple_patch(PONISH_ETYMOLOGY, path.join(etymology_data_path, 'maple.ety3.txt'))
 
 	for (const word of Object.keys(PONISH_ETYMOLOGY)) {
 		const info = PONISH_ETYMOLOGY[word]
