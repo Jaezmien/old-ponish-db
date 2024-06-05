@@ -184,8 +184,6 @@ function apply_maple_patch(etymology, patch_path) {
 		const info = info_array.join(';').trim()
 
 		for(const word of words.split('/')) {
-			if( !!etymology[word] ) continue;
-
 			etymology[word] = {
 				etymology: info,
 				credit: 'maple'
