@@ -40,7 +40,7 @@ function cleanup_part_of_speech(word) {
  * @param { SimilarWordCallback } callback
  */
 function handle_similar_word(word, tbl, callback) {
-	const SPLIT_WORD = new Set(word.split('/').map((x) => x.trim()))
+	const SPLIT_WORD = new Set(word.split(/[\/\,]/).map((x) => x.trim()))
 
 	// Handle `word (word)`
 	for(const WORD of SPLIT_WORD) {
