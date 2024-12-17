@@ -56,8 +56,8 @@ function handle_similar_word(word, tbl, callback) {
 	}
 
 	for (const WORD of SPLIT_WORD) {
-		const similars = Array.from(SPLIT_WORD.values).filter((word) => word !== WORD)
-		callback(WORD, similars.size ? similars : undefined, tbl[WORD] ?? (tbl[WORD] = {}))
+		const similars = Array.from(SPLIT_WORD.values()).filter((word) => word !== WORD)
+		callback(WORD, similars.length ? similars : undefined, tbl[WORD] ?? (tbl[WORD] = {}))
 	}
 }
 
