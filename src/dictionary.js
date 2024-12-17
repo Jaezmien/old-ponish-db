@@ -1,4 +1,4 @@
-const xlsx = require('xlsx')
+const xlsx = require('@e965/xlsx')
 const { handle_similar_word, cleanup_part_of_speech } = require('./helper')
 
 /**

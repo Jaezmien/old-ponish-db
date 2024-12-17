@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-const xlsx = require('xlsx')
+const xlsx = require('@e965/xlsx')
 const { create_dictionary_json } = require('./dictionary')
 const { create_etymology_json } = require('./etymology')
 

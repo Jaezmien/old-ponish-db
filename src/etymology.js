@@ -1,4 +1,4 @@
-const xlsx = require('xlsx')
+const xlsx = require('@e965/xlsx')
 const path = require('path')
 const fs = require('fs')
 
