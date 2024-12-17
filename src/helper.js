@@ -40,10 +40,24 @@ function cleanup_part_of_speech(word) {
  * @param { SimilarWordCallback } callback
  */
 function handle_similar_word(word, tbl, callback) {
-	const SPLIT_WORD = word.split('/').map((x) => x.trim())
+	const SPLIT_WORD = new Set(word.split('/').map((x) => x.trim()))
+
+	// Handle `word (word)`
+	for(const WORD of SPLIT_WORD) {
+		if ( /\(.+?\)/.test(WORD) ) {
+			const match = WORD.trim().match(/^(.+)\((.+)\)$/)
+			if(!match) continue;
+
+			SPLIT_WORD.add(match[1].trim())
+			SPLIT_WORD.add(match[2].trim())
+
+			SPLIT_WORD.delete(WORD)
+		}
+	}
+
 	for (const WORD of SPLIT_WORD) {
-		const similars = SPLIT_WORD.filter((word) => word !== WORD)
-		callback(WORD, similars.length ? similars : undefined, tbl[WORD] ?? (tbl[WORD] = {}))
+		const similars = Array.from(SPLIT_WORD.values).filter((word) => word !== WORD)
+		callback(WORD, similars.size ? similars : undefined, tbl[WORD] ?? (tbl[WORD] = {}))
 	}
 }
 
