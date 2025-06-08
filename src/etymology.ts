@@ -1,6 +1,7 @@
 import { readFile, utils } from '@e965/xlsx'
 import { join } from 'path'
 import { readFileSync } from 'fs'
+import parseCSV from 'csv-simple-parser'
 
 import { cleanup_part_of_speech, read_xlsx_sheet } from './helper'
 
@@ -72,6 +73,8 @@ export async function create_etymology_json(changelog_path: string, etymology_da
 	apply_maple_patch(PONISH_ETYMOLOGY, join(etymology_data_path, 'maple.ety1.txt'))
 	apply_maple_patch(PONISH_ETYMOLOGY, join(etymology_data_path, 'maple.ety2.txt'))
 	apply_maple_patch(PONISH_ETYMOLOGY, join(etymology_data_path, 'maple.ety3.txt'))
+
+	apply_csv_patch(PONISH_ETYMOLOGY, join(etymology_data_path, '1_18_changelog.csv'))
 
 	for (const word of Object.keys(PONISH_ETYMOLOGY)) {
 		const info = PONISH_ETYMOLOGY[word]
@@ -177,6 +180,27 @@ function apply_maple_patch(etymology: PonishEtymology, patch_path: string) {
 	}
 }
 
-export default {
-	create_etymology_json,
+function apply_csv_patch(etymology: PonishEtymology, csv_path: string) {
+	const data = parseCSV(readFileSync(csv_path, 'utf-8')) as string[][]
+
+	for(const entry of data) {
+		const [ word, info, speech, note, ...misc ] = entry!
+		if(!word || !word.trim()) continue
+		if(misc.length > 0) {
+			throw new Error("Found miscellaneous information within a CSV patch!")
+		}
+
+		etymology[word] = {
+			etymology: info!,
+		}
+
+		if(speech) {
+			const pos = speech.split(',').map(cleanup_part_of_speech)
+			etymology[word].speech = pos
+		}
+
+		if(note) {
+			etymology[word].note = note
+		}
+	}
 }
