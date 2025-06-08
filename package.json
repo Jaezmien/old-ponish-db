@@ -8,13 +8,16 @@
 	"main": "src/index.js",
 	"license": "MIT",
 	"dependencies": {
-		"@e965/xlsx": "^0.20.2"
+		"@e965/xlsx": "^0.20.2",
+		"typescript": "^5.8.3"
 	},
 	"scripts": {
-		"start": "bun ./src/index.js",
+		"start": "bun ./src/index.ts",
 		"lint": "bunx prettier -c src/ -w"
 	},
 	"devDependencies": {
+		"@types/bun": "^1.2.15",
+		"@types/node": "^22.15.30",
 		"prettier": "^3.2.5"
 	}
 }
