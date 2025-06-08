@@ -11,8 +11,8 @@
 		"@e965/xlsx": "^0.20.2"
 	},
 	"scripts": {
-		"start": "node ./src/index.js",
-		"lint": "prettier -c src -w"
+		"start": "bun ./src/index.js",
+		"lint": "bunx prettier -c src/ -w"
 	},
 	"devDependencies": {
 		"prettier": "^3.2.5"
