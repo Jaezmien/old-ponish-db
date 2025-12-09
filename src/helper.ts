@@ -31,10 +31,10 @@ export function handle_similar_word(word: string, tbl: any, callback: SimilarWor
 	const SPLIT_WORD = new Set(word.split(/[\/\,]/).map((x) => x.trim()))
 
 	// Handle `word (word)`
-	for(const WORD of SPLIT_WORD) {
-		if ( /\(.+?\)/.test(WORD) ) {
+	for (const WORD of SPLIT_WORD) {
+		if (/\(.+?\)/.test(WORD)) {
 			const match = WORD.trim().match(/^(.+)\((.+)\)$/)
-			if(!match) continue;
+			if (!match) continue;
 
 			SPLIT_WORD.add(match[1]!.trim())
 			SPLIT_WORD.add(match[2]!.trim())
