@@ -2,6 +2,7 @@ import xlsx from '@e965/xlsx'
 
 export function cleanup_part_of_speech(word: string) {
 	let w = word.trim()
+	if (w.startsWith('(') && w.endsWith(')')) w = w.substring(1, w.length - 1)
 	if (w.endsWith('.')) w = w.substring(0, w.length - 1)
 
 	switch (w) {
